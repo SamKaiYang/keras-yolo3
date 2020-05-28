@@ -1,0 +1,9 @@
+data/Defect-test/Resize_Defect/Defect8.jpg 163,188,267,288,0
+data/Defect-test/Resize_Defect/Defect1.jpg 208,234,260,298,0
+data/Defect-test/Resize_Defect/Defect7.jpg 158,216,237,295,0
+data/Defect-test/Resize_Defect/Defect5.jpg 141,217,222,287,0
+data/Defect-test/Resize_Defect/Defect2.jpg 140,179,232,259,0
+data/Defect-test/Resize_Defect/Defect4.jpg 156,217,239,302,0
+data/Defect-test/Resize_Defect/Defect3.jpg 90,183,255,312,0
+data/Defect-test/Resize_Defect/Defect6.jpg 117,161,265,269,0
+data/Defect-test/Resize_Defect/Defect9.jpg 95,125,234,287,0
